@@ -1,2 +1,3 @@
 function ga { git add . }
+function gp { git push }
 function gcu { git commit -m "update" }
